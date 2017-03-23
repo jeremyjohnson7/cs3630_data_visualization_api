@@ -1,0 +1,15 @@
+{
+  "name": "data-visualization-api",
+  "version": "1.0.0",
+  "description": "CS 3630 example from 22 Mar 2017",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
